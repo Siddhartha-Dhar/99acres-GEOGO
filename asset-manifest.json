@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/99acres-GEOGO/static/css/main.4e8e6850.css",
+    "main.js": "/99acres-GEOGO/static/js/main.2c5613d8.js",
+    "static/js/787.62bc3eec.chunk.js": "/99acres-GEOGO/static/js/787.62bc3eec.chunk.js",
+    "static/media/main.png": "/99acres-GEOGO/static/media/main.ad1a5af098e0ec328547.png",
+    "static/media/navlogo.png": "/99acres-GEOGO/static/media/navlogo.9ac3b0615b59a274d2c8.png",
+    "index.html": "/99acres-GEOGO/index.html",
+    "main.4e8e6850.css.map": "/99acres-GEOGO/static/css/main.4e8e6850.css.map",
+    "main.2c5613d8.js.map": "/99acres-GEOGO/static/js/main.2c5613d8.js.map",
+    "787.62bc3eec.chunk.js.map": "/99acres-GEOGO/static/js/787.62bc3eec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e8e6850.css",
+    "static/js/main.2c5613d8.js"
+  ]
+}
